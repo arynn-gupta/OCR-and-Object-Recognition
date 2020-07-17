@@ -1,6 +1,6 @@
 # Projekt
 
-Python application for object detection and character recognition using kivy for gui and tensorflow for object recognition .
+Python application for object detection and text recognition using kivy for gui and tensorflow for object recognition .
 
 ----------------------------------------
 
